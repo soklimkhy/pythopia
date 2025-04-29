@@ -1,6 +1,6 @@
-# Welcome to Pythopia! 🐍✨
+# Welcome to Pyzinopia! 🐍✨
 
-Hi there! 👋 Welcome to **Pythopia**, a magical place where Python enthusiasts can sharpen their skills, experiment with scripts, and prepare for the real-world challenges that every developer encounters. 🧙‍♂️🐍
+Hi there! 👋 Welcome to **Pyzinopia**, a magical place where Python enthusiasts can sharpen their skills, experiment with scripts, and prepare for the real-world challenges that every developer encounters. 🧙‍♂️🐍
 
 ---
 
@@ -13,7 +13,7 @@ Discover a treasure trove of Python scripts and tools designed for learning and 
 
 ---
 
-## Why Pythopia? 🌟
+## Why Pyzinopia? 🌟
 This repository is your hands-on guide to mastering Python, offering exercises that reflect challenges Python developers will encounter someday in their journeys. It's not just about learning—it’s about preparing you to solve real problems with elegance and efficiency.
 
 ---
@@ -21,11 +21,11 @@ This repository is your hands-on guide to mastering Python, offering exercises t
 ## How to Begin? 🚀
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/soklimkhy/pythopia.git
+    git clone https://github.com/soklimkhy/pyzinopia.git
     ```
 2. **Navigate to the Folder**:
     ```bash
-    cd pythopia
+    cd pyzinopia
     ```
 3. **Install Requirements (if needed)**:
     ```bash
